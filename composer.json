@@ -1,5 +1,5 @@
 {
-    "name": "ypho/scryfall",
+    "name": "samktaylor/scryfall",
 	"homepage": "http://www.ypho.nl",
 	"keywords": ["scryfall", "scryfall.com", "api wrapper"],
     "description": "A wrapper around the API from Scryfall (scryfall.com)",
